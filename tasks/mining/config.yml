@@ -1,0 +1,9 @@
+sites:
+  - market
+
+info:
+  market:
+    http.header: ''
+    main_page: 'https://www.jejuall.com/CProperty/'
+    item_regexp: '\/CProperty\/detail\?num=(\d+)'
+
